@@ -1,0 +1,8 @@
+{
+  "name": "AI Video Editor",
+  "description": "An intuitive video editor to create stories from images. Features AI-powered image editing with Gemini, voice-over recording, and AI-generated script assistance. Export your final creation as a video file.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ]
+}
